@@ -16,7 +16,7 @@
    * import este folosit in majoritatea limbajelor si este echivalentul lui #include din C/C++ si C#
    * si este putin mai flexibil
   */
-  import utils.dart;
+  import 'utils.dart';
 
   /* 
    * Vreau sa faceti o clasa numita Elev cu doi parametri
